@@ -5,4 +5,5 @@
  - Pick any local file and upload it to IPFS
  - Uploaded file are listed 
  - Each file has a link to it's transaction on Etherscan 
- - As well as a link to the file itself on IPFS
+ - As well as a link to the file itself on IPFS 
+ - For example the link can be used to share the stored file in chat message like Telegram
