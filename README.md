@@ -6,4 +6,4 @@
  - Uploaded file are listed 
  - Each file has a link to it's transaction on Etherscan 
  - As well as a link to the file itself on IPFS 
- - For example the link can be used to share the stored file in chat message like Telegram
+ - For example the link can then be used to share the stored file in a chat message like Telegram
