@@ -1,8 +1,7 @@
 {
-  "name": "dstorage",
+  "name": "dropbox-on-the-blockchain",
   "version": "0.1.0",
-  "description": "Decentralized File Storage",
-  "author": "github.com/xternet",
+  "description": "A decentralized version of Dropbox",
   "homepage": ".",
   "dependencies": {
     "@truffle/hdwallet-provider": "^1.1.0",
